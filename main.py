@@ -33,3 +33,14 @@ print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
 
 # ---------------------- ADD YOUR CODE BELOW THIS LINE ---------------------
+
+print("Made by Jackson Burbach")
+
+Name = """      _            _               
+
+    | | __ _  ___| | _____  _ __  
+ _  | |/ _` |/ __| |/ / _ \| '_ \ 
+| |_| | (_| | (__|   < (_) | | | |
+ \___/ \__,_|\___|_|\_\___/|_| |_|
+"""
+print(Name)
